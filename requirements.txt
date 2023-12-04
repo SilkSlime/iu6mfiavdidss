@@ -1,0 +1,2 @@
+seaborn==0.13.0
+squarify==0.4.3
